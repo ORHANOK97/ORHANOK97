@@ -1,4 +1,4 @@
-# Hello, I'm Orhan
+# Hello, I'm Orhan Khalilpoorazer
 <a href="https://linkedin.com/in/orhankhalilpoorazercyberanalyst"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
@@ -9,7 +9,6 @@ I am committed Cybersecurity professional seeking opportunities to contribute ex
 My journey in IT and Security has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
@@ -20,7 +19,6 @@ My journey in IT and Security has led me to develop a passion for cybersecurity,
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -43,7 +41,7 @@ My journey in IT and Security has led me to develop a passion for cybersecurity,
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <div>
    <a href="https://www.credly.com/badges/4aed6a53-74f0-4b47-92e2-436bc0dc5d0d/linked_in_profile" target="_blank">
     <img src="https://img.shields.io/badge/-CySA%2B-006400?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="CySA+ Badge" />
