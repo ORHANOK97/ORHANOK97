@@ -12,7 +12,7 @@ My journey in IT and Security has led me to develop a passion for cybersecurity,
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Physical and logical analysis          | <a href="https://github.com/ORHANOK97/Cisco-Packet-Tracer-lab">Cisco Packet Tracer lab </a>|
-| Creating detection and responce rules + Creating playbooks for automation | <a href="https://google.com](https://github.com/ORHANOK97/EDR-Lima-Charlie-SOAR-Tines-Project">EDR (Lima Charlie) SOAR (Tines) Project</a>|
+| Creating detection and responce rules + Creating playbooks for automation | <a href="https://github.com/ORHANOK97/EDR-Lima-Charlie-SOAR-Tines-Project">EDR (Lima Charlie) SOAR (Tines) Project</a>|
 
 ## Tools
 
